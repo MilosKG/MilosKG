@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Milos!
-- 👀 I’m interested in expand my programming knowledge and, hopefully, contribute to some open - source projects.
+- 👀 I’m interested in expanding my programming knowledge and, hopefully, contribute to some open - source projects.
 - 🌱 I’m currently learning C# .Net and Transasct - SQL.
 - 💞️ I’m looking to collaborate on projects that would help me improve my coding skills.
 - 📫 How to reach me: milos.lekovickg@gmail.com
